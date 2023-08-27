@@ -1,0 +1,22 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+Sarfraz-droid:
+  name: Mohammad Sarfraz Alam
+  url: https://github.com/Sarfraz-droid
+
+mrgulrez:
+  name: Gulrez Alam
+  email: gulrezalam749@gmail.com
+  url: https://www.linkedin.com/in/mrgulrez/
+  #url: https://github.com/mrgulrez
+
+faizu621:
+  name: Faizan Ahamad
+  email: faizu78601@gmail.com
+  url: https://github.com/faizu621/
